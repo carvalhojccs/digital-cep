@@ -1,0 +1,23 @@
+{
+    "name": "carvalhojccs/digital-cep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonne C C Silva",
+            "email": "jonne.cley@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}
